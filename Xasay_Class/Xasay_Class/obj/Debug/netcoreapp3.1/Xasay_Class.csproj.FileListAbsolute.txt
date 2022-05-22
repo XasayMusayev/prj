@@ -1,0 +1,14 @@
+C:\Users\Ismayil Hasanov\source\repos\Xasay_Class\Xasay_Class\bin\Debug\netcoreapp3.1\Xasay_Class.exe
+C:\Users\Ismayil Hasanov\source\repos\Xasay_Class\Xasay_Class\bin\Debug\netcoreapp3.1\Xasay_Class.deps.json
+C:\Users\Ismayil Hasanov\source\repos\Xasay_Class\Xasay_Class\bin\Debug\netcoreapp3.1\Xasay_Class.runtimeconfig.json
+C:\Users\Ismayil Hasanov\source\repos\Xasay_Class\Xasay_Class\bin\Debug\netcoreapp3.1\Xasay_Class.runtimeconfig.dev.json
+C:\Users\Ismayil Hasanov\source\repos\Xasay_Class\Xasay_Class\bin\Debug\netcoreapp3.1\Xasay_Class.dll
+C:\Users\Ismayil Hasanov\source\repos\Xasay_Class\Xasay_Class\bin\Debug\netcoreapp3.1\Xasay_Class.pdb
+C:\Users\Ismayil Hasanov\source\repos\Xasay_Class\Xasay_Class\obj\Debug\netcoreapp3.1\Xasay_Class.csproj.AssemblyReference.cache
+C:\Users\Ismayil Hasanov\source\repos\Xasay_Class\Xasay_Class\obj\Debug\netcoreapp3.1\Xasay_Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ismayil Hasanov\source\repos\Xasay_Class\Xasay_Class\obj\Debug\netcoreapp3.1\Xasay_Class.AssemblyInfoInputs.cache
+C:\Users\Ismayil Hasanov\source\repos\Xasay_Class\Xasay_Class\obj\Debug\netcoreapp3.1\Xasay_Class.AssemblyInfo.cs
+C:\Users\Ismayil Hasanov\source\repos\Xasay_Class\Xasay_Class\obj\Debug\netcoreapp3.1\Xasay_Class.csproj.CoreCompileInputs.cache
+C:\Users\Ismayil Hasanov\source\repos\Xasay_Class\Xasay_Class\obj\Debug\netcoreapp3.1\Xasay_Class.dll
+C:\Users\Ismayil Hasanov\source\repos\Xasay_Class\Xasay_Class\obj\Debug\netcoreapp3.1\Xasay_Class.pdb
+C:\Users\Ismayil Hasanov\source\repos\Xasay_Class\Xasay_Class\obj\Debug\netcoreapp3.1\Xasay_Class.genruntimeconfig.cache
